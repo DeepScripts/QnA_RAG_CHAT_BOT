@@ -165,5 +165,3 @@ This makes the output ideal for **exams, viva, and interviews**.
 **Deep Shrivastav**
 M.Sc. Data Science & AI
 
-
-Just tell me.
